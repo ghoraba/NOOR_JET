@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+  <name>nour_visualize</name>
+  <version>0.1.0</version>
+  <description>RVIZ files for NOURROBOT</description>
+
+  <maintainer email="abdalrahman.m5959@gmail.com">Abdalrahman M. Amer</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+
+  </export>
+</package>

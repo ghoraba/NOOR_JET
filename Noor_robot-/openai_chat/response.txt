@@ -1,0 +1,28 @@
+القهوه
+{'name': 'nlu_fallback', 'confidence': 0.3}
+اعرف مكان اللي
+{'name': 'nlu_fallback', 'confidence': 0.3}
+الاخوه فين ممكن اعرف اكل قهوه
+{'name': 'affirm', 'confidence': 0.7398417592048645}
+فين مكان الاول شكرا
+{'name': 'goodbye', 'confidence': 0.8925056457519531}
+اعرف مكان القهوه فين مكان القهوه شبرا
+{'name': 'asking_for_drinking_products', 'confidence': 0.9371529817581177}
+ممكن اعرف مكان القهوه
+{'name': 'coffee_alternatives', 'confidence': 0.6561453342437744}
+مكرونه
+{'name': 'asking_for_food_products', 'confidence': 0.9999376535415649}
+مكانه فين
+{'name': 'asking_for_drinking_products', 'confidence': 1.0}
+القهوه فين
+{'name': 'asking_for_drinking_products', 'confidence': 1.0}
+فين مكان القهوه
+{'name': 'asking_for_drinking_products', 'confidence': 1.0}
+اعرف مكان القهوه فين
+{'name': 'asking_for_drinking_products', 'confidence': 0.9995023012161255}
+مكان
+{'name': 'mood_unhappy', 'confidence': 0.7878695130348206}
+القهوه كم
+{'name': 'coffee_alternatives', 'confidence': 0.5064756274223328}
+القهوه فين
+{'name': 'asking_for_drinking_products', 'confidence': 1.0}
